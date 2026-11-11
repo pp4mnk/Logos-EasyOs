@@ -1,9 +1,9 @@
 # Logos-EasyOs
 .SVG LOGOS EASYOS .- 
 
-**EasyOS Collection — 36 Professions and Themes**
+**EasyOS Collection — A lot of  Professions and Themes**
 
-Give your EasyOS desktop a personal touch with this collection of 36 illustrated logo variations, featuring professions, seasonal designs and imaginative characters.
+Give your EasyOS desktop a personal touch with this collection of  illustrated logo variations, featuring professions, seasonal designs and imaginative characters.
 
 From programmers, teachers, firefighters and police officers to astronauts, musicians, pirates and wizards, each design adds a different personality while keeping the familiar EasyOS face recognisable.
 
@@ -13,7 +13,7 @@ Modified and customised by **pp4mnk**, based on the original artwork by **Barry 
 
 **File format and features**
 
-- All 36 logos are supplied as **editable SVG vector files**.
+- All  logos are supplied as **editable SVG vector files**.
 - Transparent backgrounds make them easy to place over different colours and images.
 - Vector artwork can be resized without losing sharpness.
 - Colours, shapes and accessories can be adjusted individually in a vector editor.
@@ -53,7 +53,7 @@ When sharing the collection or your own adaptations, please retain the attributi
 
 _________________________________________________________________________________
 
-Colección EasyOS — 36 profesiones y temáticas
+Colección EasyOS —  profesiones y temáticas
 
 Todos los logos son SVG vectoriales, editables y con fondo transparente.
 Modificador por pp4mnk sobre los originales de Barry Kauler; se conserva su cara original.
